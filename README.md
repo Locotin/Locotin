@@ -50,7 +50,7 @@ Built and trained a model using EfficientNetV2-S to predict cell density in hist
 **Tech Stack:** Python, Google Colab, TensorFlow  
 **Leaderboard:** [View on Grand Challenge](https://breastpathq.grand-challenge.org/evaluation/challenge/leaderboard/)
 
-### 🔸 Discrete Mathematics Notebook  
+### 🔸 [Discrete Mathematics Notebook](https://github.com/Locotin/Matematicas-Discretas-2)
 Applied discrete mathematics by:  
 - Implementing a Rubik's cube solver  
 - Creating a cryptographic system  
