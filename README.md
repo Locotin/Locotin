@@ -37,15 +37,18 @@ Currently learning Docker 🐳
 
 ## 📌 Featured Projects
 
-### 🔸 [Maki](https://github.com/apineross)  
+### 🔸 [Maki](https://github.com/orgs/Proyecto-Maki/repositories)  
 A sustainable e-commerce platform for pets.  
 **Tech Stack:** React (Frontend), Django (Backend)
 
-### 🔸 Systems Intelligence Project  
-Built and trained a model using EfficientNetV2-S to predict cell density in images.  
-- Used MSE loss, achieved good correlation between predictions and real annotations.  
-- Demonstrated effective training with some overfitting challenges to address.  
-**Tech Stack:** Python, Google Colab, TensorFlow
+### 🔸 [Intelligent Systems Project: Predicting Tumor Cellularity from H&E Histopathology Patches](https://github.com/Locotin/ProyectoSistemasInteligentes)  
+Built and trained a model using EfficientNetV2-S to predict cell density in histopathology images.  
+- Developed for the BreastPathQ 2019 Challenge: https://breastpathq.grand-challenge.org/  
+- Achieved **3rd place** on the public leaderboard with a PK score of **0.937 ± 0.036** (March 8, 2025)  
+- Used MSE loss, achieved good correlation between predictions and real annotations  
+- Demonstrated effective training with some overfitting challenges to address  
+**Tech Stack:** Python, Google Colab, TensorFlow  
+**Leaderboard:** [View on Grand Challenge](https://breastpathq.grand-challenge.org/evaluation/challenge/leaderboard/)
 
 ### 🔸 Discrete Mathematics Notebook  
 Applied discrete mathematics by:  
@@ -57,7 +60,7 @@ Applied discrete mathematics by:
 
 ## 📈 GitHub Stats
 
-![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apineross&show_icons=true&hide_title=true&hide_border=true&count_private=true)
+![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Locotin&show_icons=true&hide_title=true&hide_border=true&count_private=true)
 
 ---
 
