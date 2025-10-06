@@ -37,6 +37,18 @@ Currently learning Docker 🐳
 
 ## 📌 Featured Projects
 
+### 🔸 [Aleph](https://github.com/Aleph-Project/Aleph)
+Plataforma de música para explorar, buscar y reproducir canciones, artistas y álbumes, con reviews de la comunidad y listas de reproducción.
+- Arquitectura de **microservicios** con **API Gateway**, reverse proxies y **load balancers (Least Connections)**
+- **EDA con Kafka**: eventos `song-played` y *consumer* que enriquece y persiste en una **BD analítica PostgreSQL** con modelo estrella
+- **Caching con Redis** en music, reviews y analysis para reducir latencia y mejorar throughput
+- **Autenticación** con Auth0 y servicio propio (Node.js/Express/TypeScript) con **JWT**
+- Frontend **web (Next.js + Tailwind)** y **desktop (Electron)**; streaming vía WebSocket
+- **Pruebas de rendimiento**: k6 y JMeter
+- **Despliegue** con Docker Compose y segmentación de redes (public/private/ms), **rate limiting** y validación de tokens
+**Tech Stack:** TypeScript, Node.js/Express, GraphQL, Next.js, Tailwind CSS, Electron, PostgreSQL, MongoDB, Redis, Apache Kafka, Docker, Nginx, Auth0
+
+
 ### 🔸 [Maki](https://github.com/orgs/Proyecto-Maki/repositories)  
 A sustainable e-commerce platform for pets.  
 **Tech Stack:** React (Frontend), Django (Backend)
